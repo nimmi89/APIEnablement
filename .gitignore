@@ -1,0 +1,13 @@
+  
+terraform/*.tfplan
+
+#tf files
+terraform/*.tfstate
+terraform/*.tfstate.*
+
+# Local .terraform directories
+terraform/.terraform/*
+
+
+
+.vscode
